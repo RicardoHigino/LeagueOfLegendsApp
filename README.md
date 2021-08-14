@@ -1,2 +1,2 @@
 # League of Legends Stats
-A stats site, powered by ReactJS and consuming my own API.
+A stats site, powered by ReactJS and consuming my LeagueOfLegensAPI.
