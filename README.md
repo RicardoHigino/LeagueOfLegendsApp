@@ -1,5 +1,5 @@
 # League of Legends Stats
-A stats site, powered by ReactJS and consuming my LeagueOfLegensAPI.
+A stats site, powered by ReactJS and consuming my LeagueOfLegendsAPI.
 
 
 # Getting Started with Create React App
